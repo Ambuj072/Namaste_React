@@ -1,14 +1,14 @@
-3597
+3599
 86D:\Namaste React\01React\node_modules\@swc\helpers\_\_array_without_holes\package.json133954353614376484 0
 87D:\Namaste React\01React\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile133954353650356964 0
 78D:\Namaste React\01React\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133954353688438398 0
-37D:\Namaste React\01React\package.json133954385605697152 0
+37D:\Namaste React\01React\package.json133954434154618915 0
 99D:\Namaste React\01React\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js133954353657111816 0
 48D:\Namaste React\01React\node_modules\is-extglob133954353612209966 1
 69D:\Namaste React\01React\node_modules\caniuse-lite\data\regions\VE.js133954353629902315 0
 35D:\Namaste React\01React\.gitignore133954371137019229 0
 69D:\Namaste React\01React\node_modules\caniuse-lite\data\regions\IT.js133954353624962076 0
-29D:\Namaste React\01React\dist133954393453380074 1
+29D:\Namaste React\01React\dist133954396573025956 1
 81D:\Namaste React\01React\node_modules\lmdb\node_modules\node-addon-api\LICENSE.md133954353721101082 0
 83D:\Namaste React\01React\node_modules\msgpackr-extract\node_modules\detect-libc\lib133954353612301419 1
 69D:\Namaste React\01React\node_modules\caniuse-lite\data\regions\EC.js133954353622407037 0
@@ -199,6 +199,7 @@
 56D:\Namaste React\01React\node_modules\utility-types\dist133954353620670361 1
 65D:\Namaste React\01React\node_modules\react\react.react-server.js133954385314744877 0
 90D:\Namaste React\01React\node_modules\caniuse-lite\data\features\form-submit-attributes.js133954353623026764 0
+49D:\Namaste React\01React\dist\01React.3c14d121.js133954396572965947 0
 45D:\Namaste React\01React\node_modules\globals133954353612391880 1
 46D:\Namaste React\01React\node_modules\has-flag133954353612281444 1
 64D:\Namaste React\01React\node_modules\ordered-binary\.nyc_output133954353618443574 1
@@ -3255,6 +3256,7 @@
 92D:\Namaste React\01React\node_modules\@parcel\runtime-browser-hmr\src\loaders\hmr-runtime.js133954353697912488 0
 83D:\Namaste React\01React\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js133954353697922502 0
 92D:\Namaste React\01React\node_modules\@parcel\runtime-browser-hmr\lib\loaders\hmr-runtime.js133954353697872484 0
+53D:\Namaste React\01React\dist\01React.3c14d121.js.map133954396573015946 0
 70D:\Namaste React\01React\node_modules\@parcel\resolver-default\LICENSE133954353699722604 0
 83D:\Namaste React\01React\node_modules\@parcel\reporter-tracer\lib\TracerReporter.js133954353705758297 0
 69D:\Namaste React\01React\node_modules\@parcel\reporter-dev-server\lib133954353716453833 1
@@ -3353,7 +3355,7 @@
 84D:\Namaste React\01React\node_modules\@parcel\package-manager\src\JSONParseStream.js133954353710252668 0
 89D:\Namaste React\01React\node_modules\@parcel\package-manager\src\MockPackageInstaller.js133954353710277772 0
 87D:\Namaste React\01React\node_modules\@parcel\package-manager\src\NodePackageManager.js133954353710300577 0
-40D:\Namaste React\01React\dist\index.html133954382402013557 0
+40D:\Namaste React\01React\dist\index.html133954396572846610 0
 72D:\Namaste React\01React\node_modules\@parcel\package-manager\src\Npm.js133954353710320575 0
 87D:\Namaste React\01React\node_modules\@parcel\package-manager\src\promiseFromProcess.js133954353710366496 0
 74D:\Namaste React\01React\node_modules\@parcel\package-manager\src\utils.js133954353710656284 0

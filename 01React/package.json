@@ -17,6 +17,7 @@
   "author": "Ambuj Dubey",
   
   "scripts": {
+    "start": "parcel index.html",
     "test": "jest"
   },
   "devDependencies": {
