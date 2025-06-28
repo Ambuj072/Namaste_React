@@ -1,0 +1,20 @@
+{
+  "name": "02react",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Ambuj dubey",
+
+  
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
